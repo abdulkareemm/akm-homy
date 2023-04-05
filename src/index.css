@@ -95,6 +95,9 @@ a {
   cursor: pointer;
   transform: scale(1.1);
 }
+.button:active{
+  transform: scale(0.9);
+}
 /* media queries */
 @media (min-width: 1536px) {
   .innerWidth {

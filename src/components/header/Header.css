@@ -1,20 +1,19 @@
-.wrapper {
-  background-color: var(--black);
+.header-wrapper {
   color: white;
 }
 
-.container {
+.header-container {
   justify-content: space-between;
   padding-top: 1rem;
   padding-bottom: 1rem;
   color: var(--secondary);
 }
 
-.menu {
+.header-menu {
   gap: 2rem;
 }
 
-.menu a:hover{
+.header-menu a:hover{
     color:white;
     cursor: pointer;
     transform: scale(1.1);
