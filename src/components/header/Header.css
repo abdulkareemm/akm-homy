@@ -1,0 +1,22 @@
+.wrapper {
+  background-color: var(--black);
+  color: white;
+}
+
+.container {
+  justify-content: space-between;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: var(--secondary);
+}
+
+.menu {
+  gap: 2rem;
+}
+
+.menu a:hover{
+    color:white;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
