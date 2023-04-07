@@ -1,4 +1,4 @@
-import { Copmaines, Header, Hero, Residences, Value } from "./components";
+import { Contact, Copmaines, Header, Hero, Residences, Value } from "./components";
 import "./App.css";
 function App() {
   return (
@@ -12,6 +12,7 @@ function App() {
         <Copmaines />
         <Residences />
         <Value />
+        <Contact />
       </div>
     </>
   );
