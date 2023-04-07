@@ -1,4 +1,4 @@
-import { Contact, Copmaines, GetStarted, Header, Hero, Residences, Value } from "./components";
+import { Contact, Copmaines, Footer, GetStarted, Header, Hero, Residences, Value } from "./components";
 import "./App.css";
 function App() {
   return (
@@ -14,6 +14,7 @@ function App() {
         <Value />
         <Contact />
         <GetStarted />
+        <Footer />
       </div>
     </>
   );
