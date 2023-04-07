@@ -1,0 +1,10 @@
+.compaines-wrapper {
+  
+}
+.compaines-container {
+  justify-content: space-around;
+  gap:1rem;
+}
+.compaines-container>img{
+    width: 9rem;
+}
