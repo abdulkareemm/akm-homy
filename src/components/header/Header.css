@@ -1,7 +1,12 @@
 .header-wrapper {
   color: white;
-}
 
+}
+.header-wrapper img{
+  background: white;
+  border-radius: 100%;
+  
+}
 .header-container {
   justify-content: space-between;
   padding-top: 1rem;
